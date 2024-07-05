@@ -1,2 +1,2 @@
 # low_resource_icd_coding
-Code for the paper Low Resource ICD Coding of Discharge Summaries...
+Code implementation of the system outlinedin the paper Low Resource ICD Coding of Discharge Summaries.
